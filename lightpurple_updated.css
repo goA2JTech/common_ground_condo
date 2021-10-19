@@ -111,8 +111,8 @@ address {
 ol,
 ul,
 dl {
-  margin-top: 0;
-  margin-bottom: 1rem;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 ol ol,
@@ -371,18 +371,18 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1, .h1 {
-  font-size: 30pt;
+  font-size: 41px;
 }
 
 h2, .h2 {
-  font-size: 26pt;
+  font-size: 38px;
 }
 
 h3, .h3 {
-  font-size: 1.75rem;
+  font-size: 36px;
 }
 .h3 {
-    font-size: 24px;
+    font-size: 36px;
     letter-spacing: 0.5px;
 }
 h4, .h4 {
@@ -8653,7 +8653,7 @@ input.labelauty + label.btn-light, input.labelauty + label {
     border-radius: 5px;
     color: #1B75BC;
     font-family: "Roboto";
-    font-size: 18px;
+    font-size: 24px;
     font-weight: 500;
 }
 input.labelauty + label.btn-light:hover, input.labelauty + label.btn-light:focus {
