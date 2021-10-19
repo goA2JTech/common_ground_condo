@@ -8654,7 +8654,7 @@ input.labelauty + label.btn-light, input.labelauty + label {
     color: #1B75BC;
     font-family: "Roboto";
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 300;
 }
 input.labelauty + label.btn-light:hover, input.labelauty + label.btn-light:focus {
   background-color: #e8f0fa;
