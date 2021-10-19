@@ -371,18 +371,18 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1, .h1 {
-  font-size: 22pt;
+  font-size: 30pt;
 }
 
 h2, .h2 {
-  font-size: 18pt;
+  font-size: 26pt;
 }
 
 h3, .h3 {
   font-size: 1.75rem;
 }
 .h3 {
-    font-size: 18px;
+    font-size: 24px;
     letter-spacing: 0.5px;
 }
 h4, .h4 {
@@ -8653,7 +8653,7 @@ input.labelauty + label.btn-light, input.labelauty + label {
     border-radius: 5px;
     color: #1B75BC;
     font-family: "Roboto";
-    font-size: 13px;
+    font-size: 18px;
     font-weight: 500;
 }
 input.labelauty + label.btn-light:hover, input.labelauty + label.btn-light:focus {
